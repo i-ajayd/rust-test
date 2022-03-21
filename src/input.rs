@@ -5,3 +5,8 @@ pub fn run(){
   println!("Hello , {}", line);
   // println!("no of bytes read , {}", _b);
 }
+
+struct Person {
+  name: String;
+  surname: String
+}
